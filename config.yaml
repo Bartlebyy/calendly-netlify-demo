@@ -8,9 +8,6 @@ googleAnalytics: UA-XXXXX-Y
 # Menu items
 menu:
   main:
-    - name: About
-      weight: 1
-      url: /about
     - name: Contact
       weight: 2
       url: /contact
